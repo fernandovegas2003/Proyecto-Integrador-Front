@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/fernandovegas2003/Proyecto-Integrador-Front#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "modulo-administardor": "file:"
   }

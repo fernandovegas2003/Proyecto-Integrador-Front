@@ -1,0 +1,8 @@
+# Ignorar la carpeta node_modules
+node_modules/
+
+# Ignorar la carpeta .idea (usada por IDEs como IntelliJ o PhpStorm)
+.idea/
+
+# Ignorar archivos específicos de configuración de IDE
+*.iml
