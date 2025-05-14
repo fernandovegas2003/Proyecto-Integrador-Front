@@ -9,7 +9,7 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 
 // Servir archivos estáticos
-app.use(express.static(path.join(__dirname, 'Modulo administardor')));
+app.use(express.static(path.join(__dirname, 'Modulo administardor/')));
 
 // Ruta principal
 app.get('/', (req, res) => {
